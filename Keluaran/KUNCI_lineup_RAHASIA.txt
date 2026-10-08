@@ -1,0 +1,4 @@
+Panel data asli  : 1
+Seed            : 2026
+Data            : tahun 2025, 24 kabupaten/kota
+H0              : TPT diacak (tidak ada hubungan dengan kemiskinan)
